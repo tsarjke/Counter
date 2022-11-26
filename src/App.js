@@ -9,6 +9,7 @@ const App = () => {
     <Router>
       <div className="App">
         <header>
+          Deployed with GitHub Actions
           <Navbar />
         </header>
         {routes}
