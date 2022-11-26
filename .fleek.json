@@ -1,0 +1,15 @@
+{
+  "site": {
+    "id": "095f0837-1c7c-4652-be77-0989b7ab82cd",
+    "team": "3b6f8800-cbfa-43ea-8480-de5039a0f083",
+    "platform": "ipfs",
+    "source": "github",
+    "name": "tight-frost-4734"
+  },
+  "build": {
+    "baseDir": "",
+    "publicDir": "build",
+    "command": "npm i && npm run build",
+    "rootDir": ""
+  }
+}
